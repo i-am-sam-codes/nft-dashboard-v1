@@ -9,10 +9,13 @@ export const CONFIG = {
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "My NFT Collection",
 
-    // 4. (Optional) Display the floor price chart
+    // 4. Set your Covalent API Key
+    "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
+
+    // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
-    // 5. (Optional) Set your banner image
+    // 6. (Optional) Set your banner image
     "banner_picture": "",
   },
 
